@@ -1,0 +1,117 @@
+body {
+    font-family: 'Lilita One', cursive;
+    background-color: #D2E9E9;
+}
+
+.hack1 {
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+    width: fit-content;
+    background-color: #DDE6ED;
+    border-radius: 16px;
+    box-shadow: 4px 4px 8px #000000;
+}
+
+/* .name {
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+    width: fit-content;
+} */
+
+.line-1 {
+    height: 4px;
+    background-color: #394867;
+}
+
+.line-2 {
+    height: 4px;
+    background-color: #394867;
+}
+
+.second-name {
+        font-family: 'Permanent Marker', cursive;
+}
+
+.add {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.box {
+    width: 184px;
+    height: 115px;
+    background-color: black;
+    border-radius: 16px;
+    box-shadow: 2px 2px 4px #000000;
+}
+
+.box-2 {
+    background-color: white;
+    border-radius: 16px;
+}
+
+.about {
+    background-color: #E3F4F4;
+    border-radius: 16px;
+    box-shadow: 4px 4px 8px #000000;
+    padding: 10px;
+    width: fit-content;
+    margin-top: 20px;
+}
+
+.c-1 {
+    font-family: 'DM Serif Display', serif;
+}
+
+.quadrado1{
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 4px 4px 8px #000000;
+    padding: 20px;
+    margin: auto;
+}
+.quadrado2{
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 4px 4px 8px #000000;
+    padding: 20px;
+    margin: auto;
+}
+.quadrado3{
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 4px 4px 8px #000000;
+    padding: 20px;
+    margin: auto;
+}
+.quadrado4{
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 4px 4px 8px #000000;
+    padding: 20px;
+    margin: auto;
+}
+.quadrado5{
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 4px 4px 8px #000000;
+    padding: 20px;
+    margin: auto;
+}
+.megabox{
+    display: flex;
+}
+.proffi{
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 4px 4px 8px #000000;
+    padding: 27px;
+    margin: auto;
+    width: fit-content;
+    margin-top: 40px;
+}
+.main{
+    max-width: 1080px;
+    margin: 0 auto;
+}
