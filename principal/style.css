@@ -10,7 +10,6 @@ body {
     width: fit-content;
     background-color: #DDE6ED;
     border-radius: 16px;
-    box-shadow: 4px 4px 8px #000000;
 }
 
 /* .name {
@@ -54,7 +53,6 @@ body {
 .about {
     background-color: #E3F4F4;
     border-radius: 16px;
-    box-shadow: 4px 4px 8px #000000;
     padding: 10px;
     width: fit-content;
     margin-top: 20px;
@@ -115,3 +113,23 @@ body {
     max-width: 1080px;
     margin: 0 auto;
 }
+.pj{
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 4px 4px 8px #000000;
+    padding: 27px;
+    margin: auto;
+    width: fit-content;
+    margin-top: 40px;
+}
+.pj-1{
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 4px 4px 8px #000000;
+    padding: 27px;
+    margin: auto;
+    width: fit-content;
+    margin-top: 40px;
+ }
+
+
