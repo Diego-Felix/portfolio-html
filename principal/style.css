@@ -1,8 +1,32 @@
+
 body {
     font-family: 'Lilita One', cursive;
     background-color: #D2E9E9;
     padding: 30px;
 }
+
+@media screen and (max-width: 800px) {
+
+    .container {
+
+      margin: 1em 2em;
+
+    }
+
+    body{
+
+        background-color:  #D2E9E9;
+
+    }
+
+    .megabox{
+        display: flex;
+         flex-direction: column; 
+         
+    }
+
+  }
+
 
 .hack1 {
     text-align: center;
@@ -11,6 +35,7 @@ body {
     width: fit-content;
     /* background-color: #D2E9E9; */
     border-radius: 16px;
+    margin-left: 10px;
 }
 
 /* .name {
@@ -100,6 +125,7 @@ body {
 }
 .megabox{
     display: flex;
+    /* flex-direction: column; */
 }
 .proffi{
     background-color: white;
@@ -138,6 +164,7 @@ body {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    text-align: center;
 }
 .container{
     width: 100%;
