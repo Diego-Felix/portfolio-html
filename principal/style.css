@@ -228,3 +228,9 @@ body {
 .gt-1{
     color: black;
 }
+ .dark-theme p{
+    color: white;
+}
+p{
+    padding: 25px;
+}
