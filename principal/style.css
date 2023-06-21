@@ -185,18 +185,23 @@ body {
 }
 .dark-theme .quadrado1{
     background-color: #000000;
+    box-shadow: 2px 2px 4px white;
 }
 .dark-theme .quadrado2{
     background-color: #000000;
+    box-shadow: 2px 2px 4px white;
 }
 .dark-theme .quadrado3{
     background-color: #000000;
+    box-shadow: 2px 2px 4px white;
 }
 .dark-theme .quadrado4{
     background-color: #000000;
+    box-shadow: 2px 2px 4px white;
 }
 .dark-theme .quadrado5{
     background-color: #000000;
+    box-shadow: 2px 2px 4px white;
 }
 .dark-theme .about{
     background-color: #000000;
@@ -211,10 +216,12 @@ body {
 .dark-theme .pj{
     background-color: #000000;
     color: white;
+    box-shadow: 2px 2px 4px white;
 }
 .dark-theme .pj-1{
     background-color: #000000;
     color: white;
+    box-shadow: 2px 2px 4px white;
 }
 .dark-theme .tf-1{
     color: white;
@@ -233,4 +240,7 @@ body {
 }
 p{
     padding: 25px;
+}
+.dark-theme .proffi{
+    box-shadow: 2px 2px 4px white;
 }
