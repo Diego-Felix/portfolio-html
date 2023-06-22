@@ -159,6 +159,15 @@ body {
     width: fit-content;
     margin-top: 40px;
  }
+ .pj-2{
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 4px 4px 8px #000000;
+    padding: 27px;
+    margin: auto;
+    width: fit-content;
+    margin-top: 40px;   
+ }
 *,
 *:before,
 *:after{
@@ -248,6 +257,11 @@ body {
     box-shadow: 2px 2px 4px white;
 }
 .dark-theme .pj-1{
+    background-color: #000000;
+    color: white;
+    box-shadow: 2px 2px 4px white;
+}
+.dark-theme .pj-2{
     background-color: #000000;
     color: white;
     box-shadow: 2px 2px 4px white;
