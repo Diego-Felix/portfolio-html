@@ -1,4 +1,3 @@
-
 body {
     font-family: 'Lilita One', cursive;
     background-color: #D2E9E9;
@@ -9,23 +8,23 @@ body {
 
     .container {
 
-      margin: 1em 2em;
+        margin: 1em 2em;
 
     }
 
-    body{
+    body {
 
-        background-color:  #D2E9E9;
+        background-color: #D2E9E9;
 
     }
 
-    .megabox{
+    .megabox {
         display: flex;
-         flex-direction: column; 
-         
+        flex-direction: column;
+
     }
 
-  }
+}
 
 
 .hack1 {
@@ -56,7 +55,7 @@ body {
 }
 
 .second-name {
-        font-family: 'Permanent Marker', cursive;
+    font-family: 'Permanent Marker', cursive;
 }
 
 .add {
@@ -89,46 +88,52 @@ body {
     text-align: justify;
 }
 
-.quadrado1{
+.quadrado1 {
     background-color: white;
     border-radius: 16px;
     box-shadow: 4px 4px 8px #000000;
     padding: 20px;
     margin: auto;
 }
-.quadrado2{
+
+.quadrado2 {
     background-color: white;
     border-radius: 16px;
     box-shadow: 4px 4px 8px #000000;
     padding: 20px;
     margin: auto;
 }
-.quadrado3{
+
+.quadrado3 {
     background-color: white;
     border-radius: 16px;
     box-shadow: 4px 4px 8px #000000;
     padding: 20px;
     margin: auto;
 }
-.quadrado4{
+
+.quadrado4 {
     background-color: white;
     border-radius: 16px;
     box-shadow: 4px 4px 8px #000000;
     padding: 20px;
     margin: auto;
 }
-.quadrado5{
+
+.quadrado5 {
     background-color: white;
     border-radius: 16px;
     box-shadow: 4px 4px 8px #000000;
     padding: 20px;
     margin: auto;
 }
-.megabox{
+
+.megabox {
     display: flex;
     /* flex-direction: column; */
 }
-.proffi{
+
+.proffi {
     background-color: white;
     border-radius: 16px;
     box-shadow: 4px 4px 8px #000000;
@@ -137,11 +142,13 @@ body {
     width: fit-content;
     margin-top: 40px;
 }
-.main{
+
+.main {
     max-width: 1080px;
     margin: 0 auto;
 }
-.pj{
+
+.pj {
     background-color: white;
     border-radius: 16px;
     box-shadow: 4px 4px 8px #000000;
@@ -150,7 +157,8 @@ body {
     width: fit-content;
     margin-top: 40px;
 }
-.pj-1{
+
+.pj-1 {
     background-color: white;
     border-radius: 16px;
     box-shadow: 4px 4px 8px #000000;
@@ -158,41 +166,56 @@ body {
     margin: auto;
     width: fit-content;
     margin-top: 40px;
- }
- .pj-2{
+}
+
+.pj-2 {
     background-color: white;
     border-radius: 16px;
     box-shadow: 4px 4px 8px #000000;
     padding: 27px;
     margin: auto;
     width: fit-content;
-    margin-top: 40px;   
- }
- .pj-3{
+    margin-top: 40px;
+}
+
+.pj-3 {
     background-color: white;
     border-radius: 16px;
     box-shadow: 4px 4px 8px #000000;
     padding: 27px;
     margin: auto;
     width: fit-content;
-    margin-top: 40px;   
- }
+    margin-top: 40px;
+}
+
+.pj-4 {
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 4px 4px 8px #000000;
+    padding: 27px;
+    margin: auto;
+    width: fit-content;
+    margin-top: 40px;
+}
+
 *,
 *:before,
-*:after{
+*:after {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     text-align: center;
     transition: 0.6s;
 }
-.container{
+
+.container {
     width: 100%;
     height: 40px;
     position: relative;
     margin-bottom: 30px;
 }
-#toggle{
+
+#toggle {
     -webkit-appearance: none;
     appearance: none;
     height: 40px;
@@ -204,7 +227,8 @@ body {
     outline: none;
     cursor: pointer;
 }
-#toggle:after{
+
+#toggle:after {
     content: "";
     position: absolute;
     height: 30px;
@@ -214,90 +238,118 @@ body {
     left: 5px;
     border-radius: 50%;
 }
-.dark-theme{
+
+.dark-theme {
     background-color: #15181f;
     color: black;
 }
-.dark-theme #toggle{
+
+.dark-theme #toggle {
     background-color: #ffffffff;
 }
-.dark-theme #toggle::after{
+
+.dark-theme #toggle::after {
     background-color: transparent;
     box-shadow: 10px 10px #15181f;
     top: -4px;
     left: 30px;
 }
- .dark-theme h1{
+
+.dark-theme h1 {
     color: white;
 }
-.dark-theme .quadrado1{
+
+.dark-theme .quadrado1 {
     background-color: #000000;
     box-shadow: 2px 2px 4px white;
 }
-.dark-theme .quadrado2{
+
+.dark-theme .quadrado2 {
     background-color: #000000;
     box-shadow: 2px 2px 4px white;
 }
-.dark-theme .quadrado3{
+
+.dark-theme .quadrado3 {
     background-color: #000000;
     box-shadow: 2px 2px 4px white;
 }
-.dark-theme .quadrado4{
+
+.dark-theme .quadrado4 {
     background-color: #000000;
     box-shadow: 2px 2px 4px white;
 }
-.dark-theme .quadrado5{
+
+.dark-theme .quadrado5 {
     background-color: #000000;
     box-shadow: 2px 2px 4px white;
 }
-.dark-theme .about{
+
+.dark-theme .about {
     background-color: #000000;
 }
-.dark-theme .c-1{
+
+.dark-theme .c-1 {
     color: white;
 }
-.dark-theme .proffi{
+
+.dark-theme .proffi {
     background-color: #000000;
     color: white;
 }
-.dark-theme .pj{
-    background-color: #000000;
-    color: white;
-    box-shadow: 2px 2px 4px white;
-}
-.dark-theme .pj-1{
-    background-color: #000000;
-    color: white;
-    box-shadow: 2px 2px 4px white;
-}
-.dark-theme .pj-2{
-    background-color: #000000;
-    color: white;
-    box-shadow: 2px 2px 4px white;
-}
-.dark-theme .pj-3{
+
+.dark-theme .pj {
     background-color: #000000;
     color: white;
     box-shadow: 2px 2px 4px white;
 }
-.dark-theme .tf-1{
+
+.dark-theme .pj-1 {
+    background-color: #000000;
+    color: white;
+    box-shadow: 2px 2px 4px white;
+}
+
+.dark-theme .pj-2 {
+    background-color: #000000;
+    color: white;
+    box-shadow: 2px 2px 4px white;
+}
+
+.dark-theme .pj-3 {
+    background-color: #000000;
+    color: white;
+    box-shadow: 2px 2px 4px white;
+}
+.dark-theme .pj-4 {
+    background-color: #000000;
+    color: white;
+    box-shadow: 2px 2px 4px white;
+}
+
+.dark-theme .tf-1 {
     color: white;
 }
-.dark-theme .tf-2{
+
+.dark-theme .tf-2 {
     color: white;
 }
-.dark-theme .gt-1{
+
+.dark-theme .gt-1 {
     color: white;
 }
-.gt-1{
+
+.gt-1 {
     color: black;
 }
- .dark-theme p{
+
+.dark-theme p {
     color: white;
 }
-p{
+
+p {
     padding: 25px;
 }
-.dark-theme .proffi{
+
+.dark-theme .proffi {
     box-shadow: 2px 2px 4px white;
 }
